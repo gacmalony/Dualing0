@@ -1,6 +1,6 @@
-THIS APP IS ABSOLUTELY AMAZING, ONLY DIFFERENT OF DUALINGO. THIS APP INCLUDE "0" end the name instead of "O"
+THIS APP IS ABSOLUTELY AMAZING, ONLY DIFFERENT OF DUALINGO. THIS APP INCLUDE "0(zero)" in the end of his name, instead of "O(letter)"
 
-Fetching the data of API, FROM LOCALE IP WHICH I DID WITH "XAMPP". Make the exam to users. With more than cool UIs with deep details which configured by me. Have Fun!
+Fetching the data FROM LOCALE IP WHICH I DID WITH "XAMPP" APPLICATION . Make Language test to users. With more than cool UIs with deep details which configured by me. Have Fun!
 
 IN THE FIRST SCREEN, YOU'LL SEE AN ALERT. READ CAREFULLY AND PUNCH HIM. IM HEARING QUESTIONS KIND OF WHO?, YOU'LL SEE..
 
