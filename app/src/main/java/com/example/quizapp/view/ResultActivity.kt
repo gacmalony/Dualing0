@@ -30,8 +30,8 @@ class ResultActivity : AppCompatActivity() {
         //MATCHING RESULT WITH SOME TEXTS
         fun checkGreaterThan(value: Int){
             when {
-                value < (MainActivity.total_question / 4) -> binding.meaning.text = "Youre an idiot"
-                value <= (MainActivity.total_question / 2) -> binding.meaning.text = "Your iq 5 point more than monkey"
+                value < (MainActivity.total_question / 4) -> binding.meaning.text = "You have absolutely bad memory"
+                value <= (MainActivity.total_question / 2) -> binding.meaning.text = "Your iq is average"
                 value > (MainActivity.total_question / 2) && value < ((MainActivity.total_question / 4)*3) -> binding.meaning.text = "You did more than half, its cool!"
                 value > ((MainActivity.total_question / 4)*3) -> binding.meaning.text = "Youre smart man!"
                 else->
